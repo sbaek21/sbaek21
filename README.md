@@ -3,6 +3,7 @@ Hello, I'm Sunwoo Baek, and I am a senior undergrad student at UIUC.
 
 ## 🌐 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sunwoo-baek/)
+[![Website Badge](https://img.shields.io/badge/website-000?color=gray&style=for-the-badge&logo=google%20chrome&logoColor=white)](https://sbaek21.github.io/)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?color=591515&logo=gmail&style=for-the-badge&logoColor=white)](mailto:sunwoob2@illinois.edu)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?color=181717&logo=github&style=for-the-badge&logoColor=white)](https://github.com/sbaek21)
 
